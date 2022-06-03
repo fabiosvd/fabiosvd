@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="assets\wave.gif" width="30px"> Nice to Meet You. ✌
+# Hello, folks! <img src="assets\wave.gif" width="30"> Nice to Meet You. ✌
 <img src="assets/github-hero.png" alt="fabiosvd profile hero banner" width="100%" height="auto"/>
 
 ## More About Me
